@@ -1,0 +1,22 @@
+body {
+  background-color: #f8fafc;
+  color: #222;
+}
+h1 {
+  font-size: 1.8rem;
+  color: #2563eb;
+}
+table th {
+  background: #f1f5f9;
+}
+button {
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 12px;
+}
+button:disabled {
+  background: #9ca3af;
+  cursor: not-allowed;
+}
