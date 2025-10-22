@@ -1,0 +1,161 @@
+Notes,Hispanic Origin,Hispanic Origin Code,Year,Year Code,Deaths,Population,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval,Crude Rate Standard Error,Age Adjusted Rate,Age Adjusted Rate Lower 95% Confidence Interval,Age Adjusted Rate Upper 95% Confidence Interval,Age Adjusted Rate Standard Error,% of Total Deaths
+nan,Hispanic or Latino,2135-02-01 00:00:00,1999.0,1999.0,162,17503631,0.93,0.78,1.07,0.07,2.31,1.94,2.67,0.19,0.0007
+nan,Hispanic or Latino,2135-02-01 00:00:00,2000.0,2000.0,183,18219679,1,0.86,1.15,0.07,2.5,2.13,2.87,0.19,0.0008
+nan,Hispanic or Latino,2135-02-01 00:00:00,2001.0,2001.0,195,19290018,1.01,0.87,1.15,0.07,2.56,2.2,2.93,0.19,0.0009
+nan,Hispanic or Latino,2135-02-01 00:00:00,2002.0,2002.0,177,20159630,0.88,0.75,1.01,0.07,2.22,1.89,2.55,0.17,0.0008
+nan,Hispanic or Latino,2135-02-01 00:00:00,2003.0,2003.0,211,21011656,1,0.87,1.14,0.07,2.47,2.13,2.82,0.17,0.0009
+nan,Hispanic or Latino,2135-02-01 00:00:00,2004.0,2004.0,243,21877214,1.11,0.97,1.25,0.07,2.73,2.38,3.08,0.18,0.0011
+nan,Hispanic or Latino,2135-02-01 00:00:00,2005.0,2005.0,284,22804023,1.25,1.1,1.39,0.07,3,2.64,3.36,0.18,0.0013
+nan,Hispanic or Latino,2135-02-01 00:00:00,2006.0,2006.0,287,23743864,1.21,1.07,1.35,0.07,2.82,2.48,3.15,0.17,0.0013
+nan,Hispanic or Latino,2135-02-01 00:00:00,2007.0,2007.0,279,24673919,1.13,1,1.26,0.07,2.57,2.26,2.88,0.16,0.0013
+nan,Hispanic or Latino,2135-02-01 00:00:00,2008.0,2008.0,271,25602850,1.06,0.93,1.18,0.06,2.34,2.06,2.63,0.15,0.0012
+nan,Hispanic or Latino,2135-02-01 00:00:00,2009.0,2009.0,307,26504021,1.16,1.03,1.29,0.07,2.54,2.25,2.83,0.15,0.0014
+nan,Hispanic or Latino,2135-02-01 00:00:00,2010.0,2010.0,294,27192663,1.08,0.96,1.2,0.06,2.3,2.03,2.57,0.14,0.0013
+nan,Hispanic or Latino,2135-02-01 00:00:00,2011.0,2011.0,368,28255675,1.3,1.17,1.44,0.07,2.66,2.39,2.94,0.14,0.0016
+nan,Hispanic or Latino,2135-02-01 00:00:00,2012.0,2012.0,390,28988437,1.35,1.21,1.48,0.07,2.67,2.41,2.94,0.14,0.0017
+nan,Hispanic or Latino,2135-02-01 00:00:00,2013.0,2013.0,411,29784174,1.38,1.25,1.51,0.07,2.61,2.36,2.87,0.13,0.0018
+nan,Hispanic or Latino,2135-02-01 00:00:00,2014.0,2014.0,447,30809714,1.45,1.32,1.59,0.07,2.64,2.39,2.89,0.13,0.002
+nan,Hispanic or Latino,2135-02-01 00:00:00,2015.0,2015.0,512,31761872,1.61,1.47,1.75,0.07,2.81,2.56,3.05,0.13,0.0023
+nan,Hispanic or Latino,2135-02-01 00:00:00,2016.0,2016.0,542,32438262,1.67,1.53,1.81,0.07,2.81,2.57,3.05,0.12,0.0024
+nan,Hispanic or Latino,2135-02-01 00:00:00,2017.0,2017.0,563,33594503,1.68,1.54,1.81,0.07,2.8,2.56,3.03,0.12,0.0025
+nan,Hispanic or Latino,2135-02-01 00:00:00,2018.0,2018.0,629,34350362,1.83,1.69,1.97,0.07,2.95,2.71,3.18,0.12,0.0028
+nan,Hispanic or Latino,2135-02-01 00:00:00,2019.0,2019.0,627,35025850,1.79,1.65,1.93,0.07,2.86,2.63,3.09,0.12,0.0028
+nan,Hispanic or Latino,2135-02-01 00:00:00,2020.0,2020.0,2146,35758193,6,5.75,6.26,0.13,8.98,8.59,9.37,0.2,0.0096
+Total,Hispanic or Latino,2135-02-01 00:00:00,nan,nan,9528,589350210,1.62,1.58,1.65,0.02,3.14,3.07,3.2,0.03,0.0427
+nan,Not Hispanic or Latino,2186-02-01 00:00:00,1999.0,1999.0,7799,162905138,4.79,4.68,4.89,0.05,4.62,4.52,4.73,0.05,0.035
+nan,Not Hispanic or Latino,2186-02-01 00:00:00,2000.0,2000.0,7984,163764961,4.88,4.77,4.98,0.05,4.68,4.58,4.78,0.05,0.0358
+nan,Not Hispanic or Latino,2186-02-01 00:00:00,2001.0,2001.0,8177,165015110,4.96,4.85,5.06,0.05,4.72,4.62,4.82,0.05,0.0367
+nan,Not Hispanic or Latino,2186-02-01 00:00:00,2002.0,2002.0,8733,166048398,5.26,5.15,5.37,0.06,4.99,4.89,5.1,0.05,0.0391
+nan,Not Hispanic or Latino,2186-02-01 00:00:00,2003.0,2003.0,8963,167078773,5.36,5.25,5.48,0.06,5.03,4.93,5.14,0.05,0.0402
+nan,Not Hispanic or Latino,2186-02-01 00:00:00,2004.0,2004.0,8678,168328170,5.16,5.05,5.26,0.06,4.82,4.72,4.92,0.05,0.0389
+nan,Not Hispanic or Latino,2186-02-01 00:00:00,2005.0,2005.0,9481,169747361,5.59,5.47,5.7,0.06,5.17,5.06,5.27,0.05,0.0425
+nan,Not Hispanic or Latino,2186-02-01 00:00:00,2006.0,2006.0,9340,171275495,5.45,5.34,5.56,0.06,4.98,4.87,5.08,0.05,0.0419
+nan,Not Hispanic or Latino,2186-02-01 00:00:00,2007.0,2007.0,9487,172729858,5.49,5.38,5.6,0.06,4.98,4.88,5.08,0.05,0.0425
+nan,Not Hispanic or Latino,2186-02-01 00:00:00,2008.0,2008.0,8185,174192240,4.7,4.6,4.8,0.05,4.18,4.09,4.28,0.05,0.0367
+nan,Not Hispanic or Latino,2186-02-01 00:00:00,2009.0,2009.0,7798,175602995,4.44,4.34,4.54,0.05,3.93,3.84,4.01,0.04,0.035
+nan,Not Hispanic or Latino,2186-02-01 00:00:00,2010.0,2010.0,8383,176699320,4.74,4.64,4.85,0.05,4.14,4.05,4.23,0.05,0.0376
+nan,Not Hispanic or Latino,2186-02-01 00:00:00,2011.0,2011.0,8916,178337261,5,4.9,5.1,0.05,4.29,4.2,4.38,0.05,0.04
+nan,Not Hispanic or Latino,2186-02-01 00:00:00,2012.0,2012.0,9116,179837600,5.07,4.96,5.17,0.05,4.28,4.19,4.37,0.05,0.0409
+nan,Not Hispanic or Latino,2186-02-01 00:00:00,2013.0,2013.0,9744,181301140,5.37,5.27,5.48,0.05,4.49,4.4,4.58,0.05,0.0437
+nan,Not Hispanic or Latino,2186-02-01 00:00:00,2014.0,2014.0,9470,182999566,5.17,5.07,5.28,0.05,4.3,4.21,4.38,0.04,0.0425
+nan,Not Hispanic or Latino,2186-02-01 00:00:00,2015.0,2015.0,10324,184791945,5.59,5.48,5.69,0.05,4.61,4.52,4.7,0.05,0.0463
+nan,Not Hispanic or Latino,2186-02-01 00:00:00,2016.0,2016.0,10098,186203155,5.42,5.32,5.53,0.05,4.42,4.33,4.5,0.04,0.0453
+nan,Not Hispanic or Latino,2186-02-01 00:00:00,2017.0,2017.0,10881,187852828,5.79,5.68,5.9,0.06,4.69,4.6,4.78,0.05,0.0488
+nan,Not Hispanic or Latino,2186-02-01 00:00:00,2018.0,2018.0,11110,188960828,5.88,5.77,5.99,0.06,4.67,4.58,4.76,0.04,0.0498
+nan,Not Hispanic or Latino,2186-02-01 00:00:00,2019.0,2019.0,10826,189955317,5.7,5.59,5.81,0.05,4.48,4.39,4.56,0.04,0.0485
+nan,Not Hispanic or Latino,2186-02-01 00:00:00,2020.0,2020.0,19607,190876820,10.27,10.13,10.42,0.07,7.98,7.87,8.1,0.06,0.0879
+Total,Not Hispanic or Latino,2186-02-01 00:00:00,nan,nan,213100,3884504279,5.49,5.46,5.51,0.01,4.77,4.75,4.79,0.01,0.9553
+nan,Not Stated,NS,1999.0,1999.0,20,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0001
+nan,Not Stated,NS,2000.0,2000.0,20,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0001
+nan,Not Stated,NS,2001.0,2001.0,14,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0001
+nan,Not Stated,NS,2002.0,2002.0,20,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0001
+nan,Not Stated,NS,2003.0,2003.0,18,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0001
+nan,Not Stated,NS,2004.0,2004.0,12,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0001
+nan,Not Stated,NS,2005.0,2005.0,11,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0
+nan,Not Stated,NS,2006.0,2006.0,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+nan,Not Stated,NS,2007.0,2007.0,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+nan,Not Stated,NS,2008.0,2008.0,10,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0
+nan,Not Stated,NS,2009.0,2009.0,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+nan,Not Stated,NS,2010.0,2010.0,14,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0001
+nan,Not Stated,NS,2011.0,2011.0,17,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0001
+nan,Not Stated,NS,2012.0,2012.0,23,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0001
+nan,Not Stated,NS,2013.0,2013.0,27,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0001
+nan,Not Stated,NS,2014.0,2014.0,32,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0001
+nan,Not Stated,NS,2015.0,2015.0,44,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0002
+nan,Not Stated,NS,2016.0,2016.0,30,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0001
+nan,Not Stated,NS,2017.0,2017.0,35,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0002
+nan,Not Stated,NS,2018.0,2018.0,20,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0001
+nan,Not Stated,NS,2019.0,2019.0,18,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0001
+nan,Not Stated,NS,2020.0,2020.0,38,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0002
+Total,Not Stated,NS,nan,nan,447,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.002
+Total,nan,nan,nan,nan,223075,4473854489,4.99,4.97,5.01,0.01,4.67,4.65,4.69,0.01,1
+---,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"Dataset: Multiple Cause of Death, 1999-2020",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Query Parameters:,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+MCD - ICD-10 Codes: I48 (Atrial fibrillation and flutter),nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+MCD - ICD-10 Codes: AND,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+MCD - ICD-10 Codes: J12.0 (Adenoviral pneumonia); J12.1 (Respiratory syncytial virus pneumonia); J12.2 (Parainfluenza virus,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"pneumonia); J12.3 (Human metapneumovirus pneumonia); J12.8 (Other viral pneumonia); J12.9 (Viral pneumonia, unspecified); J13",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+(Pneumonia due to Streptococcus pneumoniae); J14 (Pneumonia due to Haemophilus influenzae); J15.0 (Pneumonia due to Klebsiella,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+pneumoniae); J15.1 (Pneumonia due to Pseudomonas); J15.2 (Pneumonia due to staphylococcus); J15.3 (Pneumonia due to,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"streptococcus, group B); J15.4 (Pneumonia due to other streptococci); J15.5 (Pneumonia due to Escherichia coli); J15.6",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+(Pneumonia due to other aerobic Gram-negative bacteria); J15.7 (Pneumonia due to Mycoplasma pneumoniae); J15.8 (Other bacterial,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"pneumonia); J15.9 (Bacterial pneumonia, unspecified); J16.0 (Chlamydial pneumonia); J16.8 (Pneumonia due to other specified",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"infectious organisms); J18.0 (Bronchopneumonia, unspecified); J18.1 (Lobar pneumonia, unspecified); J18.2 (Hypostatic pneumonia,",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"unspecified); J18.8 (Other pneumonia, organism unspecified); J18.9 (Pneumonia, unspecified)",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Ten-Year Age Groups: 25-34 years; 35-44 years; 45-54 years; 55-64 years; 65-74 years; 75-84 years; 85+ years,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Group By: Hispanic Origin; Year,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Show Totals: True,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Show Zero Values: True,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Show Suppressed: True,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Standard Population: 2000 U.S. Std. Population,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"Calculate Rates Per: 100,000",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups),nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+---,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information.,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+---,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"Query Date: Oct 17, 2025 5:46:36 PM",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+---,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Oct 17, 2025 5:46:36 PM",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+---,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Caveats:,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision.,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data.",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies.,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#New-Jersey-Reporting-Anomalies.,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#California-Reporting-Anomalies.,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+5. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality.,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+6. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable.,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+7. The populations used to calculate standard age-adjusted rates are documented here: More information:,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+http://wonder.cdc.gov/wonder/help/mcd.html#2000 Standard Population.,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+8. The method used to calculate age-adjusted rates is documented here: More information:,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+http://wonder.cdc.gov/wonder/help/mcd.html#Age-Adjusted Rates.,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"9. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated.,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"10. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"among Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated.,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+11. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"are inconsistent between these two data sources, death rates will be biased. More information:",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+http://wonder.cdc.gov/wonder/help/mcd.html#Racial Differences.,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+12. The method used to calculate 95% confidence intervals is documented here: More information:,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+http://wonder.cdc.gov/wonder/help/mcd.html#Confidence-Intervals.,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+13. The method used to calculate standard errors is documented here: More information:,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+http://wonder.cdc.gov/wonder/help/mcd.html#Standard-Errors.,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"14. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012.",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+were available at the time of release.,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+15. Changes to cause of death classification affect reporting trends. More information:,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes.,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan

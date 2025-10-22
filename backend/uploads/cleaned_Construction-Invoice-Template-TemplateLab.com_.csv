@@ -1,0 +1,35 @@
+CONSTRUCTION,,,,,
+"INVOICE
+BILL TO LOCATION Invoice No:
+Invoice Date:
+Due Date:",,,,,
+,DESCRIPTION,QTY,UNIT PRICE,TOTAL,
+,Material,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,Labour,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,Other,,,,
+,,,,,
+,,,,,
+"SUBTOTAL
+DISCOUNT
+SUBTOTAL LESS DISCOUNT
+TAX RATE
+TOTAL TAX",,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Balance Due,,,,,
+Terms & Instructions,,,,,
+,,,,,

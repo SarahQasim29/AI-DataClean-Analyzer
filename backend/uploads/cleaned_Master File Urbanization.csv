@@ -1,0 +1,218 @@
+Notes,2013 Urbanization,2013 Urbanization Code,Year,Year Code,Deaths,Population,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval,Crude Rate Standard Error,Age Adjusted Rate,Age Adjusted Rate Lower 95% Confidence Interval,Age Adjusted Rate Upper 95% Confidence Interval,Age Adjusted Rate Standard Error,% of Total Deaths
+nan,Large Central Metro,1.0,1999.0,1999.0,2085.0,55158210.0,3.78,3.62,3.94,0.08,4.25,4.07,4.44,0.09,0.01
+nan,Large Central Metro,1.0,2000.0,2000.0,2177.0,55591115.0,3.92,3.75,4.08,0.08,4.37,4.19,4.56,0.09,0.01
+nan,Large Central Metro,1.0,2001.0,2001.0,2195.0,56328966.0,3.9,3.73,4.06,0.08,4.35,4.17,4.53,0.09,0.01
+nan,Large Central Metro,1.0,2002.0,2002.0,2313.0,56817793.0,4.07,3.91,4.24,0.08,4.55,4.36,4.73,0.09,0.01
+nan,Large Central Metro,1.0,2003.0,2003.0,2371.0,57256612.0,4.14,3.97,4.31,0.09,4.6,4.41,4.78,0.09,0.01
+nan,Large Central Metro,1.0,2004.0,2004.0,2329.0,57705739.0,4.04,3.87,4.2,0.08,4.47,4.29,4.65,0.09,0.01
+nan,Large Central Metro,1.0,2005.0,2005.0,2502.0,58229392.0,4.3,4.13,4.47,0.09,4.7,4.52,4.89,0.09,0.01
+nan,Large Central Metro,1.0,2006.0,2006.0,2504.0,58668221.0,4.27,4.1,4.44,0.09,4.67,4.49,4.85,0.09,0.01
+nan,Large Central Metro,1.0,2007.0,2007.0,2453.0,59267664.0,4.14,3.98,4.3,0.08,4.48,4.3,4.66,0.09,0.01
+nan,Large Central Metro,1.0,2008.0,2008.0,2246.0,59967549.0,3.75,3.59,3.9,0.08,3.97,3.81,4.14,0.08,0.01
+nan,Large Central Metro,1.0,2009.0,2009.0,2108.0,60752217.0,3.47,3.32,3.62,0.08,3.67,3.51,3.83,0.08,0.01
+nan,Large Central Metro,1.0,2010.0,2010.0,2249.0,61313153.0,3.67,3.52,3.82,0.08,3.83,3.67,3.99,0.08,0.01
+nan,Large Central Metro,1.0,2011.0,2011.0,2454.0,62459599.0,3.93,3.77,4.08,0.08,4.05,3.89,4.22,0.08,0.01
+nan,Large Central Metro,1.0,2012.0,2012.0,2413.0,63452027.0,3.8,3.65,3.95,0.08,3.9,3.74,4.05,0.08,0.01
+nan,Large Central Metro,1.0,2013.0,2013.0,2492.0,64526705.0,3.86,3.71,4.01,0.08,3.91,3.75,4.06,0.08,0.01
+nan,Large Central Metro,1.0,2014.0,2014.0,2434.0,65705514.0,3.7,3.56,3.85,0.08,3.76,3.61,3.91,0.08,0.01
+nan,Large Central Metro,1.0,2015.0,2015.0,2652.0,66832493.0,3.97,3.82,4.12,0.08,4.02,3.87,4.18,0.08,0.01
+nan,Large Central Metro,1.0,2016.0,2016.0,2644.0,67507468.0,3.92,3.77,4.07,0.08,3.88,3.73,4.03,0.08,0.01
+nan,Large Central Metro,1.0,2017.0,2017.0,2836.0,68657865.0,4.13,3.98,4.28,0.08,4.08,3.93,4.23,0.08,0.01
+nan,Large Central Metro,1.0,2018.0,2018.0,2805.0,69113529.0,4.06,3.91,4.21,0.08,3.96,3.82,4.11,0.08,0.01
+nan,Large Central Metro,1.0,2019.0,2019.0,2832.0,69547234.0,4.07,3.92,4.22,0.08,3.94,3.79,4.09,0.07,0.01
+nan,Large Central Metro,1.0,2020.0,2020.0,5589.0,69923712.0,7.99,7.78,8.2,0.11,7.64,7.43,7.84,0.1,0.03
+Total,Large Central Metro,1.0,2009.5,2009.5,56683.0,1364782777.0,4.15,4.12,4.19,0.02,4.34,4.3,4.37,0.02,0.25
+nan,Large Fringe Metro,2.0,1999.0,1999.0,1829.0,43153790.0,4.24,4.04,4.43,0.1,4.77,4.55,4.99,0.11,0.01
+nan,Large Fringe Metro,2.0,2000.0,2000.0,1830.0,43700200.0,4.19,4.0,4.38,0.1,4.67,4.45,4.88,0.11,0.01
+nan,Large Fringe Metro,2.0,2001.0,2001.0,1861.0,44588342.0,4.17,3.98,4.36,0.1,4.63,4.42,4.84,0.11,0.01
+nan,Large Fringe Metro,2.0,2002.0,2002.0,2024.0,45270335.0,4.47,4.28,4.67,0.1,4.91,4.7,5.13,0.11,0.01
+nan,Large Fringe Metro,2.0,2003.0,2003.0,2006.0,45928816.0,4.37,4.18,4.56,0.1,4.77,4.56,4.98,0.11,0.01
+nan,Large Fringe Metro,2.0,2004.0,2004.0,2026.0,46609071.0,4.35,4.16,4.54,0.1,4.71,4.5,4.91,0.1,0.01
+nan,Large Fringe Metro,2.0,2005.0,2005.0,2106.0,47328668.0,4.45,4.26,4.64,0.1,4.77,4.57,4.98,0.1,0.01
+nan,Large Fringe Metro,2.0,2006.0,2006.0,2085.0,48062418.0,4.34,4.15,4.52,0.1,4.58,4.38,4.77,0.1,0.01
+nan,Large Fringe Metro,2.0,2007.0,2007.0,2201.0,48754831.0,4.51,4.33,4.7,0.1,4.69,4.49,4.89,0.1,0.01
+nan,Large Fringe Metro,2.0,2008.0,2008.0,1892.0,49453044.0,3.83,3.65,4.0,0.09,3.89,3.72,4.07,0.09,0.01
+nan,Large Fringe Metro,2.0,2009.0,2009.0,1733.0,50097697.0,3.46,3.3,3.62,0.08,3.48,3.31,3.64,0.08,0.01
+nan,Large Fringe Metro,2.0,2010.0,2010.0,1997.0,50596730.0,3.95,3.77,4.12,0.09,3.94,3.77,4.12,0.09,0.01
+nan,Large Fringe Metro,2.0,2011.0,2011.0,2100.0,51368773.0,4.09,3.91,4.26,0.09,4.01,3.83,4.18,0.09,0.01
+nan,Large Fringe Metro,2.0,2012.0,2012.0,2104.0,51987706.0,4.05,3.87,4.22,0.09,3.87,3.7,4.04,0.09,0.01
+nan,Large Fringe Metro,2.0,2013.0,2013.0,2319.0,52560168.0,4.41,4.23,4.59,0.09,4.15,3.98,4.32,0.09,0.01
+nan,Large Fringe Metro,2.0,2014.0,2014.0,2186.0,53330012.0,4.1,3.93,4.27,0.09,3.81,3.64,3.97,0.08,0.01
+nan,Large Fringe Metro,2.0,2015.0,2015.0,2393.0,54086892.0,4.42,4.25,4.6,0.09,4.1,3.93,4.26,0.08,0.01
+nan,Large Fringe Metro,2.0,2016.0,2016.0,2234.0,54715238.0,4.08,3.91,4.25,0.09,3.68,3.52,3.83,0.08,0.01
+nan,Large Fringe Metro,2.0,2017.0,2017.0,2588.0,55537375.0,4.66,4.48,4.84,0.09,4.23,4.06,4.39,0.08,0.01
+nan,Large Fringe Metro,2.0,2018.0,2018.0,2604.0,56142470.0,4.64,4.46,4.82,0.09,4.14,3.97,4.3,0.08,0.01
+nan,Large Fringe Metro,2.0,2019.0,2019.0,2562.0,56732013.0,4.52,4.34,4.69,0.09,3.95,3.8,4.11,0.08,0.01
+nan,Large Fringe Metro,2.0,2020.0,2020.0,4949.0,57349831.0,8.63,8.39,8.87,0.12,7.48,7.27,7.69,0.11,0.02
+Total,Large Fringe Metro,2.0,2009.5,2009.5,49629.0,1107354420.0,4.48,4.44,4.52,0.02,4.41,4.37,4.45,0.02,0.22
+nan,Medium Metro,3.0,1999.0,1999.0,1637.0,36511530.0,4.48,4.27,4.7,0.11,4.52,4.3,4.74,0.11,0.01
+nan,Medium Metro,3.0,2000.0,2000.0,1698.0,36828914.0,4.61,4.39,4.83,0.11,4.62,4.4,4.84,0.11,0.01
+nan,Medium Metro,3.0,2001.0,2001.0,1834.0,37302887.0,4.92,4.69,5.14,0.11,4.89,4.67,5.11,0.11,0.01
+nan,Medium Metro,3.0,2002.0,2002.0,1909.0,37735689.0,5.06,4.83,5.29,0.12,5.01,4.78,5.23,0.11,0.01
+nan,Medium Metro,3.0,2003.0,2003.0,2006.0,38173809.0,5.25,5.02,5.48,0.12,5.15,4.92,5.37,0.12,0.01
+nan,Medium Metro,3.0,2004.0,2004.0,1824.0,38719799.0,4.71,4.49,4.93,0.11,4.59,4.38,4.8,0.11,0.01
+nan,Medium Metro,3.0,2005.0,2005.0,2162.0,39326078.0,5.5,5.27,5.73,0.12,5.31,5.08,5.53,0.11,0.01
+nan,Medium Metro,3.0,2006.0,2006.0,2131.0,40000794.0,5.33,5.1,5.55,0.12,5.11,4.89,5.32,0.11,0.01
+nan,Medium Metro,3.0,2007.0,2007.0,2194.0,40585861.0,5.41,5.18,5.63,0.12,5.13,4.92,5.35,0.11,0.01
+nan,Medium Metro,3.0,2008.0,2008.0,1808.0,41130558.0,4.4,4.19,4.6,0.1,4.09,3.9,4.28,0.1,0.01
+nan,Medium Metro,3.0,2009.0,2009.0,1801.0,41632719.0,4.33,4.13,4.53,0.1,4.01,3.82,4.19,0.09,0.01
+nan,Medium Metro,3.0,2010.0,2010.0,1852.0,42039409.0,4.41,4.2,4.61,0.1,4.01,3.82,4.19,0.09,0.01
+nan,Medium Metro,3.0,2011.0,2011.0,1960.0,42571652.0,4.6,4.4,4.81,0.1,4.12,3.93,4.3,0.09,0.01
+nan,Medium Metro,3.0,2012.0,2012.0,2070.0,43020837.0,4.81,4.6,5.02,0.11,4.26,4.07,4.44,0.09,0.01
+nan,Medium Metro,3.0,2013.0,2013.0,2235.0,43441445.0,5.14,4.93,5.36,0.11,4.47,4.29,4.66,0.1,0.01
+nan,Medium Metro,3.0,2014.0,2014.0,2287.0,43973917.0,5.2,4.99,5.41,0.11,4.49,4.31,4.68,0.09,0.01
+nan,Medium Metro,3.0,2015.0,2015.0,2429.0,44553648.0,5.45,5.24,5.67,0.11,4.67,4.49,4.86,0.1,0.01
+nan,Medium Metro,3.0,2016.0,2016.0,2477.0,45085099.0,5.49,5.28,5.71,0.11,4.67,4.48,4.85,0.09,0.01
+nan,Medium Metro,3.0,2017.0,2017.0,2461.0,45649578.0,5.39,5.18,5.6,0.11,4.48,4.3,4.66,0.09,0.01
+nan,Medium Metro,3.0,2018.0,2018.0,2693.0,46138793.0,5.84,5.62,6.06,0.11,4.81,4.62,4.99,0.09,0.01
+nan,Medium Metro,3.0,2019.0,2019.0,2516.0,46578418.0,5.4,5.19,5.61,0.11,4.41,4.24,4.58,0.09,0.01
+nan,Medium Metro,3.0,2020.0,2020.0,4626.0,47034942.0,9.84,9.55,10.12,0.14,7.94,7.71,8.17,0.12,0.02
+Total,Medium Metro,3.0,2009.5,2009.5,48610.0,918036376.0,5.29,5.25,5.34,0.02,4.77,4.73,4.82,0.02,0.22
+nan,Small Metro,4.0,1999.0,1999.0,808.0,16421812.0,4.92,4.58,5.26,0.17,4.71,4.38,5.03,0.17,0.0
+nan,Small Metro,4.0,2000.0,2000.0,804.0,16538470.0,4.86,4.53,5.2,0.17,4.58,4.26,4.9,0.16,0.0
+nan,Small Metro,4.0,2001.0,2001.0,786.0,16676063.0,4.71,4.38,5.04,0.17,4.44,4.13,4.75,0.16,0.0
+nan,Small Metro,4.0,2002.0,2002.0,784.0,16835234.0,4.66,4.33,4.98,0.17,4.35,4.05,4.66,0.16,0.0
+nan,Small Metro,4.0,2003.0,2003.0,871.0,17008478.0,5.12,4.78,5.46,0.17,4.75,4.43,5.06,0.16,0.0
+nan,Small Metro,4.0,2004.0,2004.0,803.0,17237488.0,4.66,4.34,4.98,0.16,4.29,4.0,4.59,0.15,0.0
+nan,Small Metro,4.0,2005.0,2005.0,958.0,17487688.0,5.48,5.13,5.83,0.18,5.04,4.72,5.36,0.16,0.0
+nan,Small Metro,4.0,2006.0,2006.0,952.0,17791956.0,5.35,5.01,5.69,0.17,4.86,4.55,5.17,0.16,0.0
+nan,Small Metro,4.0,2007.0,2007.0,966.0,18042530.0,5.35,5.02,5.69,0.17,4.84,4.53,5.14,0.16,0.0
+nan,Small Metro,4.0,2008.0,2008.0,794.0,18274876.0,4.34,4.04,4.65,0.15,3.88,3.61,4.15,0.14,0.0
+nan,Small Metro,4.0,2009.0,2009.0,820.0,18482941.0,4.44,4.13,4.74,0.15,3.89,3.62,4.16,0.14,0.0
+nan,Small Metro,4.0,2010.0,2010.0,836.0,18641813.0,4.48,4.18,4.79,0.16,3.93,3.66,4.19,0.14,0.0
+nan,Small Metro,4.0,2011.0,2011.0,974.0,18804508.0,5.18,4.85,5.5,0.17,4.46,4.18,4.74,0.14,0.0
+nan,Small Metro,4.0,2012.0,2012.0,1005.0,18963106.0,5.3,4.97,5.63,0.17,4.48,4.2,4.76,0.14,0.0
+nan,Small Metro,4.0,2013.0,2013.0,1108.0,19106131.0,5.8,5.46,6.14,0.17,4.87,4.58,5.16,0.15,0.0
+nan,Small Metro,4.0,2014.0,2014.0,1010.0,19294573.0,5.23,4.91,5.56,0.16,4.31,4.04,4.58,0.14,0.0
+nan,Small Metro,4.0,2015.0,2015.0,1148.0,19486273.0,5.89,5.55,6.23,0.17,4.78,4.5,5.06,0.14,0.01
+nan,Small Metro,4.0,2016.0,2016.0,1215.0,19655385.0,6.18,5.83,6.53,0.18,4.93,4.65,5.21,0.14,0.01
+nan,Small Metro,4.0,2017.0,2017.0,1238.0,19830244.0,6.24,5.9,6.59,0.18,4.97,4.69,5.25,0.14,0.01
+nan,Small Metro,4.0,2018.0,2018.0,1257.0,20020232.0,6.28,5.93,6.63,0.18,4.91,4.63,5.18,0.14,0.01
+nan,Small Metro,4.0,2019.0,2019.0,1249.0,20148823.0,6.2,5.86,6.54,0.18,4.8,4.53,5.06,0.14,0.01
+nan,Small Metro,4.0,2020.0,2020.0,2264.0,20291625.0,11.16,10.7,11.62,0.23,8.57,8.21,8.92,0.18,0.01
+Total,Small Metro,4.0,2009.5,2009.5,22650.0,405040249.0,5.59,5.52,5.66,0.04,4.82,4.76,4.88,0.03,0.1
+nan,Micropolitan (Nonmetro),5.0,1999.0,1999.0,949.0,16659611.0,5.7,5.33,6.06,0.18,5.09,4.77,5.41,0.17,0.0
+nan,Micropolitan (Nonmetro),5.0,2000.0,2000.0,972.0,16757127.0,5.8,5.44,6.17,0.19,5.16,4.83,5.48,0.17,0.0
+nan,Micropolitan (Nonmetro),5.0,2001.0,2001.0,962.0,16823690.0,5.72,5.36,6.08,0.18,5.07,4.75,5.39,0.16,0.0
+nan,Micropolitan (Nonmetro),5.0,2002.0,2002.0,1070.0,16916100.0,6.33,5.95,6.7,0.19,5.58,5.25,5.91,0.17,0.0
+nan,Micropolitan (Nonmetro),5.0,2003.0,2003.0,1106.0,17026544.0,6.5,6.11,6.88,0.2,5.72,5.38,6.06,0.17,0.0
+nan,Micropolitan (Nonmetro),5.0,2004.0,2004.0,1115.0,17165188.0,6.5,6.11,6.88,0.19,5.7,5.36,6.03,0.17,0.0
+nan,Micropolitan (Nonmetro),5.0,2005.0,2005.0,1175.0,17326444.0,6.78,6.39,7.17,0.2,5.93,5.59,6.27,0.17,0.01
+nan,Micropolitan (Nonmetro),5.0,2006.0,2006.0,1132.0,17533143.0,6.46,6.08,6.83,0.19,5.59,5.26,5.91,0.17,0.01
+nan,Micropolitan (Nonmetro),5.0,2007.0,2007.0,1102.0,17704020.0,6.22,5.86,6.59,0.19,5.38,5.07,5.7,0.16,0.0
+nan,Micropolitan (Nonmetro),5.0,2008.0,2008.0,949.0,17853202.0,5.32,4.98,5.65,0.17,4.54,4.25,4.83,0.15,0.0
+nan,Micropolitan (Nonmetro),5.0,2009.0,2009.0,961.0,17976546.0,5.35,5.01,5.68,0.17,4.54,4.25,4.83,0.15,0.0
+nan,Micropolitan (Nonmetro),5.0,2010.0,2010.0,966.0,18082101.0,5.34,5.01,5.68,0.17,4.55,4.26,4.84,0.15,0.0
+nan,Micropolitan (Nonmetro),5.0,2011.0,2011.0,1035.0,18158559.0,5.7,5.35,6.05,0.18,4.73,4.44,5.02,0.15,0.0
+nan,Micropolitan (Nonmetro),5.0,2012.0,2012.0,1055.0,18201116.0,5.8,5.45,6.15,0.18,4.73,4.44,5.01,0.15,0.0
+nan,Micropolitan (Nonmetro),5.0,2013.0,2013.0,1145.0,18250046.0,6.27,5.91,6.64,0.19,5.05,4.76,5.35,0.15,0.01
+nan,Micropolitan (Nonmetro),5.0,2014.0,2014.0,1155.0,18313971.0,6.31,5.94,6.67,0.19,5.05,4.75,5.34,0.15,0.01
+nan,Micropolitan (Nonmetro),5.0,2015.0,2015.0,1250.0,18394558.0,6.8,6.42,7.17,0.19,5.42,5.11,5.72,0.16,0.01
+nan,Micropolitan (Nonmetro),5.0,2016.0,2016.0,1184.0,18467561.0,6.41,6.05,6.78,0.19,5.05,4.76,5.34,0.15,0.01
+nan,Micropolitan (Nonmetro),5.0,2017.0,2017.0,1322.0,18539269.0,7.13,6.75,7.52,0.2,5.49,5.19,5.79,0.15,0.01
+nan,Micropolitan (Nonmetro),5.0,2018.0,2018.0,1307.0,18628411.0,7.02,6.64,7.4,0.19,5.32,5.03,5.61,0.15,0.01
+nan,Micropolitan (Nonmetro),5.0,2019.0,2019.0,1275.0,18695730.0,6.82,6.45,7.19,0.19,5.14,4.86,5.43,0.15,0.01
+nan,Micropolitan (Nonmetro),5.0,2020.0,2020.0,2393.0,18750942.0,12.76,12.25,13.27,0.26,9.5,9.12,9.88,0.2,0.01
+Total,Micropolitan (Nonmetro),5.0,2009.5,2009.5,25580.0,392223879.0,6.52,6.44,6.6,0.04,5.38,5.32,5.45,0.03,0.11
+nan,NonCore (Nonmetro),6.0,1999.0,1999.0,673.0,12503816.0,5.38,4.98,5.79,0.21,4.27,3.95,4.59,0.16,0.0
+nan,NonCore (Nonmetro),6.0,2000.0,2000.0,706.0,12568814.0,5.62,5.2,6.03,0.21,4.46,4.13,4.79,0.17,0.0
+nan,NonCore (Nonmetro),6.0,2001.0,2001.0,748.0,12585180.0,5.94,5.52,6.37,0.22,4.72,4.38,5.06,0.17,0.0
+nan,NonCore (Nonmetro),6.0,2002.0,2002.0,830.0,12632877.0,6.57,6.12,7.02,0.23,5.22,4.87,5.58,0.18,0.0
+nan,NonCore (Nonmetro),6.0,2003.0,2003.0,832.0,12696170.0,6.55,6.11,7.0,0.23,5.19,4.84,5.55,0.18,0.0
+nan,NonCore (Nonmetro),6.0,2004.0,2004.0,836.0,12768099.0,6.55,6.1,6.99,0.23,5.21,4.86,5.57,0.18,0.0
+nan,NonCore (Nonmetro),6.0,2005.0,2005.0,873.0,12853114.0,6.79,6.34,7.24,0.23,5.43,5.07,5.79,0.18,0.0
+nan,NonCore (Nonmetro),6.0,2006.0,2006.0,831.0,12962827.0,6.41,5.97,6.85,0.22,5.11,4.76,5.46,0.18,0.0
+nan,NonCore (Nonmetro),6.0,2007.0,2007.0,857.0,13048871.0,6.57,6.13,7.01,0.22,5.25,4.89,5.6,0.18,0.0
+nan,NonCore (Nonmetro),6.0,2008.0,2008.0,777.0,13115861.0,5.92,5.51,6.34,0.21,4.69,4.36,5.02,0.17,0.0
+nan,NonCore (Nonmetro),6.0,2009.0,2009.0,691.0,13164896.0,5.25,4.86,5.64,0.2,4.11,3.8,4.41,0.16,0.0
+nan,NonCore (Nonmetro),6.0,2010.0,2010.0,791.0,13218777.0,5.98,5.57,6.4,0.21,4.68,4.35,5.0,0.17,0.0
+nan,NonCore (Nonmetro),6.0,2011.0,2011.0,778.0,13229845.0,5.88,5.47,6.29,0.21,4.51,4.19,4.83,0.16,0.0
+nan,NonCore (Nonmetro),6.0,2012.0,2012.0,882.0,13201245.0,6.68,6.24,7.12,0.22,5.08,4.74,5.42,0.17,0.0
+nan,NonCore (Nonmetro),6.0,2013.0,2013.0,883.0,13200819.0,6.69,6.25,7.13,0.23,4.97,4.64,5.3,0.17,0.0
+nan,NonCore (Nonmetro),6.0,2014.0,2014.0,877.0,13191293.0,6.65,6.21,7.09,0.22,4.88,4.55,5.2,0.17,0.0
+nan,NonCore (Nonmetro),6.0,2015.0,2015.0,1008.0,13199953.0,7.64,7.16,8.11,0.24,5.51,5.17,5.85,0.17,0.0
+nan,NonCore (Nonmetro),6.0,2016.0,2016.0,916.0,13210666.0,6.93,6.48,7.38,0.23,4.99,4.67,5.32,0.17,0.0
+nan,NonCore (Nonmetro),6.0,2017.0,2017.0,1034.0,13233000.0,7.81,7.34,8.29,0.24,5.56,5.22,5.9,0.17,0.0
+nan,NonCore (Nonmetro),6.0,2018.0,2018.0,1093.0,13267755.0,8.24,7.75,8.73,0.25,5.74,5.4,6.09,0.17,0.0
+nan,NonCore (Nonmetro),6.0,2019.0,2019.0,1037.0,13278949.0,7.81,7.33,8.28,0.24,5.34,5.01,5.67,0.17,0.0
+nan,NonCore (Nonmetro),6.0,2020.0,2020.0,1970.0,13277463.0,14.84,14.18,15.49,0.33,10.12,9.67,10.58,0.23,0.01
+Total,NonCore (Nonmetro),6.0,2009.5,2009.5,19923.0,286410290.0,6.96,6.86,7.05,0.05,5.3,5.23,5.38,0.04,0.09
+Total,nan,3.5,2009.5,2009.5,223075.0,4473847991.0,4.99,4.97,5.01,0.01,4.67,4.65,4.69,0.01,1.0
+---,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"Dataset: Multiple Cause of Death, 1999-2020",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+Query Parameters:,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+MCD - ICD-10 Codes: I48 (Atrial fibrillation and flutter),nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+MCD - ICD-10 Codes: AND,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+MCD - ICD-10 Codes: J12.0 (Adenoviral pneumonia); J12.1 (Respiratory syncytial virus pneumonia); J12.2 (Parainfluenza virus,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"pneumonia); J12.3 (Human metapneumovirus pneumonia); J12.8 (Other viral pneumonia); J12.9 (Viral pneumonia, unspecified); J13",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+(Pneumonia due to Streptococcus pneumoniae); J14 (Pneumonia due to Haemophilus influenzae); J15.0 (Pneumonia due to Klebsiella,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+pneumoniae); J15.1 (Pneumonia due to Pseudomonas); J15.2 (Pneumonia due to staphylococcus); J15.3 (Pneumonia due to,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"streptococcus, group B); J15.4 (Pneumonia due to other streptococci); J15.5 (Pneumonia due to Escherichia coli); J15.6",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+(Pneumonia due to other aerobic Gram-negative bacteria); J15.7 (Pneumonia due to Mycoplasma pneumoniae); J15.8 (Other bacterial,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"pneumonia); J15.9 (Bacterial pneumonia, unspecified); J16.0 (Chlamydial pneumonia); J16.8 (Pneumonia due to other specified",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"infectious organisms); J18.0 (Bronchopneumonia, unspecified); J18.1 (Lobar pneumonia, unspecified); J18.2 (Hypostatic pneumonia,",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"unspecified); J18.8 (Other pneumonia, organism unspecified); J18.9 (Pneumonia, unspecified)",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+Ten-Year Age Groups: 25-34 years; 35-44 years; 45-54 years; 55-64 years; 65-74 years; 75-84 years; 85+ years,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+Group By: 2013 Urbanization; Year,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+Show Totals: True,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+Show Zero Values: True,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+Show Suppressed: True,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+Standard Population: 2000 U.S. Std. Population,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"Calculate Rates Per: 100,000",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups),nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+---,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information.,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+---,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"Query Date: Oct 16, 2025 8:48:26 PM",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+---,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Oct 16, 2025 8:48:26 PM",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+---,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+Caveats:,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision.,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data.",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies.,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#New-Jersey-Reporting-Anomalies.,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#California-Reporting-Anomalies.,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+5. The populations used to calculate standard age-adjusted rates are documented here: More information:,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+http://wonder.cdc.gov/wonder/help/mcd.html#2000 Standard Population.,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+6. The method used to calculate age-adjusted rates is documented here: More information:,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+http://wonder.cdc.gov/wonder/help/mcd.html#Age-Adjusted Rates.,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"7. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated.,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+8. The method used to calculate 95% confidence intervals is documented here: More information:,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+http://wonder.cdc.gov/wonder/help/mcd.html#Confidence-Intervals.,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+9. The method used to calculate standard errors is documented here: More information:,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+http://wonder.cdc.gov/wonder/help/mcd.html#Standard-Errors.,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"10. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012.",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which",nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+were available at the time of release.,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+11. Changes to cause of death classification affect reporting trends. More information:,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01
+http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes.,nan,3.5,2009.5,2009.5,1829.0,37735689.0,5.25,4.98,5.55,0.12,4.68,4.44,4.88,0.11,0.01

@@ -1,0 +1,240 @@
+Notes,Ten-Year Age Groups,Ten-Year Age Groups Code,Year,Year Code,Deaths,Population,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval,Crude Rate Standard Error,% of Total Deaths
+nan,25-34 years,25-34,1999,1999,808,40178406,4,3,4,0,0
+nan,25-34 years,25-34,2000,2000,808,39891724,4,3,4,0,0
+nan,25-34 years,25-34,2001,2001,0,39471522,4,0,0,0,0
+nan,25-34 years,25-34,2002,2002,808,39349646,4,3,4,0,0
+nan,25-34 years,25-34,2003,2003,808,39243795,4,3,4,0,0
+nan,25-34 years,25-34,2004,2004,808,39266556,4,3,4,0,0
+nan,25-34 years,25-34,2005,2005,808,39258647,4,3,4,0,0
+nan,25-34 years,25-34,2006,2006,808,39395179,4,3,4,0,0
+nan,25-34 years,25-34,2007,2007,0,39713463,4,0,0,0,0
+nan,25-34 years,25-34,2008,2008,808,40207473,4,3,4,0,0
+nan,25-34 years,25-34,2009,2009,808,40723342,4,3,4,0,0
+nan,25-34 years,25-34,2010,2010,808,41063948,4,3,4,0,0
+nan,25-34 years,25-34,2011,2011,808,41790498,4,3,4,0,0
+nan,25-34 years,25-34,2012,2012,808,42309321,4,3,4,0,0
+nan,25-34 years,25-34,2013,2013,808,42844587,4,3,4,0,0
+nan,25-34 years,25-34,2014,2014,11,43516504,4,0,0,0,0
+nan,25-34 years,25-34,2015,2015,808,44137202,4,3,4,0,0
+nan,25-34 years,25-34,2016,2016,808,44677243,4,3,4,0,0
+nan,25-34 years,25-34,2017,2017,808,45342672,4,3,4,0,0
+nan,25-34 years,25-34,2018,2018,808,45697774,4,3,4,0,0
+nan,25-34 years,25-34,2019,2019,808,45940321,4,3,4,0,0
+nan,25-34 years,25-34,2020,2020,15,46069646,4,0,0,0,0
+Total,25-34 years,25-34,2010,2010,93,920089469,0,0,0,0,0
+nan,35-44 years,35-44,1999,1999,808,45076677,4,3,4,0,0
+nan,35-44 years,35-44,2000,2000,808,45148527,4,3,4,0,0
+nan,35-44 years,35-44,2001,2001,10,45051752,4,0,0,0,0
+nan,35-44 years,35-44,2002,2002,808,44640649,4,3,4,0,0
+nan,35-44 years,35-44,2003,2003,808,44154206,4,3,4,0,0
+nan,35-44 years,35-44,2004,2004,808,43800275,4,3,4,0,0
+nan,35-44 years,35-44,2005,2005,11,43505538,4,0,0,0,0
+nan,35-44 years,35-44,2006,2006,19,43243801,4,0,0,0,0
+nan,35-44 years,35-44,2007,2007,16,42796230,4,0,0,0,0
+nan,35-44 years,35-44,2008,2008,13,42192486,4,0,0,0,0
+nan,35-44 years,35-44,2009,2009,808,41487811,4,3,4,0,0
+nan,35-44 years,35-44,2010,2010,14,41070606,4,0,0,0,0
+nan,35-44 years,35-44,2011,2011,13,40627954,4,0,0,0,0
+nan,35-44 years,35-44,2012,2012,18,40516420,4,0,0,0,0
+nan,35-44 years,35-44,2013,2013,12,40452690,4,0,0,0,0
+nan,35-44 years,35-44,2014,2014,16,40513133,4,0,0,0,0
+nan,35-44 years,35-44,2015,2015,26,40589783,0,0,0,0,0
+nan,35-44 years,35-44,2016,2016,23,40470156,0,0,0,0,0
+nan,35-44 years,35-44,2017,2017,17,40875370,4,0,0,0,0
+nan,35-44 years,35-44,2018,2018,23,41277888,0,0,0,0,0
+nan,35-44 years,35-44,2019,2019,24,41659144,0,0,0,0,0
+nan,35-44 years,35-44,2020,2020,64,42136192,0,0,0,0,0
+Total,35-44 years,35-44,2010,2010,364,931287288,0,0,0,0,0
+nan,45-54 years,45-54,1999,1999,40,36577819,0,0,0,0,0
+nan,45-54 years,45-54,2000,2000,34,37677952,0,0,0,0,0
+nan,45-54 years,45-54,2001,2001,37,39386268,0,0,0,0,0
+nan,45-54 years,45-54,2002,2002,43,39992194,0,0,0,0,0
+nan,45-54 years,45-54,2003,2003,40,40819954,0,0,0,0,0
+nan,45-54 years,45-54,2004,2004,48,41629930,0,0,0,0,0
+nan,45-54 years,45-54,2005,2005,47,42495904,0,0,0,0,0
+nan,45-54 years,45-54,2006,2006,57,43286159,0,0,0,0,0
+nan,45-54 years,45-54,2007,2007,79,43939939,0,0,0,0,0
+nan,45-54 years,45-54,2008,2008,65,44460447,0,0,0,0,0
+nan,45-54 years,45-54,2009,2009,72,44867088,0,0,0,0,0
+nan,45-54 years,45-54,2010,2010,90,45006716,0,0,0,0,0
+nan,45-54 years,45-54,2011,2011,78,44718203,0,0,0,0,0
+nan,45-54 years,45-54,2012,2012,85,44268738,0,0,0,0,0
+nan,45-54 years,45-54,2013,2013,100,43767532,0,0,0,0,0
+nan,45-54 years,45-54,2014,2014,105,43458851,0,0,0,0,0
+nan,45-54 years,45-54,2015,2015,100,43188161,0,0,0,0,0
+nan,45-54 years,45-54,2016,2016,110,42786679,0,0,0,0,0
+nan,45-54 years,45-54,2017,2017,105,42374952,0,0,0,0,0
+nan,45-54 years,45-54,2018,2018,110,41631699,0,0,0,0,0
+nan,45-54 years,45-54,2019,2019,126,40874902,0,0,0,0,0
+nan,45-54 years,45-54,2020,2020,291,40366133,1,1,1,0,0
+Total,45-54 years,45-54,2010,2010,1862,927576220,0,0,0,0,0
+nan,55-64 years,55-64,1999,1999,150,23778026,1,1,1,0,0
+nan,55-64 years,55-64,2000,2000,142,24274684,1,0,1,0,0
+nan,55-64 years,55-64,2001,2001,162,25105295,1,1,1,0,0
+nan,55-64 years,55-64,2002,2002,169,26703332,1,1,1,0,0
+nan,55-64 years,55-64,2003,2003,191,28008945,1,1,1,0,0
+nan,55-64 years,55-64,2004,2004,222,29305304,1,1,1,0,0
+nan,55-64 years,55-64,2005,2005,236,30641497,1,1,1,0,0
+nan,55-64 years,55-64,2006,2006,254,31930113,1,1,1,0,0
+nan,55-64 years,55-64,2007,2007,276,33128434,1,1,1,0,0
+nan,55-64 years,55-64,2008,2008,264,34157063,1,1,1,0,0
+nan,55-64 years,55-64,2009,2009,273,35405600,1,1,1,0,0
+nan,55-64 years,55-64,2010,2010,301,36482729,1,1,1,0,0
+nan,55-64 years,55-64,2011,2011,315,38062140,1,1,1,0,0
+nan,55-64 years,55-64,2012,2012,338,38586202,1,1,1,0,0
+nan,55-64 years,55-64,2013,2013,405,39316431,1,1,1,0,0
+nan,55-64 years,55-64,2014,2014,415,40077581,1,1,1,0,0
+nan,55-64 years,55-64,2015,2015,478,40877819,1,1,1,0,0
+nan,55-64 years,55-64,2016,2016,515,41463144,1,1,1,0,0
+nan,55-64 years,55-64,2017,2017,531,41995658,1,1,1,0,0
+nan,55-64 years,55-64,2018,2018,613,42272636,1,1,2,0,0
+nan,55-64 years,55-64,2019,2019,564,42448537,1,1,1,0,0
+nan,55-64 years,55-64,2020,2020,1295,42403677,3,3,3,0,0
+Total,55-64 years,55-64,2010,2010,8109,766424847,1,1,1,0,0
+nan,65-74 years,65-74,1999,1999,808,18418909,4,4,5,0,0
+nan,65-74 years,65-74,2000,2000,828,18390986,4,4,5,0,0
+nan,65-74 years,65-74,2001,2001,809,18384179,4,4,5,0,0
+nan,65-74 years,65-74,2002,2002,855,18388535,5,4,5,0,0
+nan,65-74 years,65-74,2003,2003,866,18500915,5,4,5,0,0
+nan,65-74 years,65-74,2004,2004,861,18667533,5,4,5,0,0
+nan,65-74 years,65-74,2005,2005,875,18881697,5,4,5,0,0
+nan,65-74 years,65-74,2006,2006,954,19203027,5,5,5,0,0
+nan,65-74 years,65-74,2007,2007,1058,19698727,5,5,6,0,0
+nan,65-74 years,65-74,2008,2008,759,20505679,4,3,4,0,0
+nan,65-74 years,65-74,2009,2009,764,21233099,4,3,4,0,0
+nan,65-74 years,65-74,2010,2010,805,21713429,4,3,4,0,0
+nan,65-74 years,65-74,2011,2011,910,22481738,4,4,4,0,0
+nan,65-74 years,65-74,2012,2012,979,23985392,4,4,4,0,0
+nan,65-74 years,65-74,2013,2013,1085,25216766,4,4,5,0,0
+nan,65-74 years,65-74,2014,2014,1168,26398290,4,4,5,0,0
+nan,65-74 years,65-74,2015,2015,1319,27550517,5,5,5,0,0
+nan,65-74 years,65-74,2016,2016,1402,28630330,5,5,5,0,0
+nan,65-74 years,65-74,2017,2017,1525,29683446,5,5,5,0,0
+nan,65-74 years,65-74,2018,2018,1590,30492316,5,5,5,0,0
+nan,65-74 years,65-74,2019,2019,1680,31483433,5,5,6,0,0
+nan,65-74 years,65-74,2020,2020,3836,32549398,12,11,12,0,0
+Total,65-74 years,65-74,2010,2010,25736,510458341,5,5,5,0,0
+nan,75-84 years,75-84,1999,1999,2839,12224914,23,22,24,0,0
+nan,75-84 years,75-84,2000,2000,2954,12361180,24,23,25,0,0
+nan,75-84 years,75-84,2001,2001,2966,12593618,24,23,24,0,0
+nan,75-84 years,75-84,2002,2002,3115,12764864,24,24,25,0,0
+nan,75-84 years,75-84,2003,2003,3211,12896438,25,24,26,0,0
+nan,75-84 years,75-84,2004,2004,3137,12989903,24,23,25,0,0
+nan,75-84 years,75-84,2005,2005,3420,13074802,26,25,27,0,0
+nan,75-84 years,75-84,2006,2006,3326,13095151,25,25,26,0,0
+nan,75-84 years,75-84,2007,2007,3323,13087439,25,25,26,0,0
+nan,75-84 years,75-84,2008,2008,2524,13076102,19,19,20,0,0
+nan,75-84 years,75-84,2009,2009,2485,13022775,19,18,20,0,0
+nan,75-84 years,75-84,2010,2010,2571,13061122,20,19,20,0,0
+nan,75-84 years,75-84,2011,2011,2731,13175230,21,20,22,0,0
+nan,75-84 years,75-84,2012,2012,2727,13272634,21,20,21,0,0
+nan,75-84 years,75-84,2013,2013,2881,13446519,21,21,22,0,0
+nan,75-84 years,75-84,2014,2014,2882,13682690,21,20,22,0,0
+nan,75-84 years,75-84,2015,2015,3106,13923174,22,22,23,0,0
+nan,75-84 years,75-84,2016,2016,2895,14233534,20,20,21,0,0
+nan,75-84 years,75-84,2017,2017,3259,14706551,22,21,23,0,0
+nan,75-84 years,75-84,2018,2018,3413,15394374,22,21,23,0,0
+nan,75-84 years,75-84,2019,2019,3436,15969872,22,21,22,0,0
+nan,75-84 years,75-84,2020,2020,6980,16451547,42,41,43,1,0
+Total,75-84 years,75-84,2010,2010,70181,298504433,24,23,24,0,0
+nan,85+ years,85+,1999,1999,4133,4154018,99,96,103,2,0
+nan,85+ years,85+,2000,2000,4219,4239587,100,97,103,2,0
+nan,85+ years,85+,2001,2001,4402,4312494,102,99,105,2,0
+nan,85+ years,85+,2002,2002,4741,4368808,109,105,112,2,0
+nan,85+ years,85+,2003,2003,4871,4466176,109,106,112,2,0
+nan,85+ years,85+,2004,2004,4652,4545883,102,99,105,2,0
+nan,85+ years,85+,2005,2005,5184,4693299,110,107,113,2,0
+nan,85+ years,85+,2006,2006,5020,4865929,103,100,106,1,0
+nan,85+ years,85+,2007,2007,5021,5039545,100,97,102,1,0
+nan,85+ years,85+,2008,2008,4837,5195840,93,90,96,1,0
+nan,85+ years,85+,2009,2009,4510,5367301,84,82,86,1,0
+nan,85+ years,85+,2010,2010,4909,5493433,89,87,92,1,0
+nan,85+ years,85+,2011,2011,5252,5737173,92,89,94,1,0
+nan,85+ years,85+,2012,2012,5380,5887330,91,89,94,1,0
+nan,85+ years,85+,2013,2013,5698,6040789,94,92,97,1,0
+nan,85+ years,85+,2014,2014,5352,6162231,87,85,89,1,0
+nan,85+ years,85+,2015,2015,5847,6287161,93,91,95,1,0
+nan,85+ years,85+,2016,2016,5716,6380331,90,87,92,1,0
+nan,85+ years,85+,2017,2017,6038,6468682,93,91,96,1,0
+nan,85+ years,85+,2018,2018,6002,6544503,92,89,94,1,0
+nan,85+ years,85+,2019,2019,5636,6604958,85,83,88,1,0
+nan,85+ years,85+,2020,2020,9310,6658420,140,137,143,1,0
+Total,85+ years,85+,2010,2010,116730,119513891,98,97,98,0,1
+Total,nan,nan,2010,2010,223075,4473854489,5,5,5,0,1
+---,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"Dataset: Multiple Cause of Death, 1999-2020",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+Query Parameters:,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+MCD - ICD-10 Codes: I48 (Atrial fibrillation and flutter),nan,nan,2010,2010,808,38324171,4,3,4,0,0
+MCD - ICD-10 Codes: AND,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+MCD - ICD-10 Codes: J12.0 (Adenoviral pneumonia); J12.1 (Respiratory syncytial virus pneumonia); J12.2 (Parainfluenza virus,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"pneumonia); J12.3 (Human metapneumovirus pneumonia); J12.8 (Other viral pneumonia); J12.9 (Viral pneumonia, unspecified); J13",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+(Pneumonia due to Streptococcus pneumoniae); J14 (Pneumonia due to Haemophilus influenzae); J15.0 (Pneumonia due to Klebsiella,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+pneumoniae); J15.1 (Pneumonia due to Pseudomonas); J15.2 (Pneumonia due to staphylococcus); J15.3 (Pneumonia due to,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"streptococcus, group B); J15.4 (Pneumonia due to other streptococci); J15.5 (Pneumonia due to Escherichia coli); J15.6",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+(Pneumonia due to other aerobic Gram-negative bacteria); J15.7 (Pneumonia due to Mycoplasma pneumoniae); J15.8 (Other bacterial,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"pneumonia); J15.9 (Bacterial pneumonia, unspecified); J16.0 (Chlamydial pneumonia); J16.8 (Pneumonia due to other specified",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"infectious organisms); J18.0 (Bronchopneumonia, unspecified); J18.1 (Lobar pneumonia, unspecified); J18.2 (Hypostatic pneumonia,",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"unspecified); J18.8 (Other pneumonia, organism unspecified); J18.9 (Pneumonia, unspecified)",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+Ten-Year Age Groups: 25-34 years; 35-44 years; 45-54 years; 55-64 years; 65-74 years; 75-84 years; 85+ years,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+Group By: Ten-Year Age Groups; Year,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+Show Totals: True,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+Show Zero Values: True,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+Show Suppressed: True,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"Calculate Rates Per: 100,000",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups),nan,nan,2010,2010,808,38324171,4,3,4,0,0
+---,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information.,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+---,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"Query Date: Oct 17, 2025 4:49:41 PM",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+---,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Oct 17, 2025 4:49:41 PM",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+---,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+Caveats:,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision.,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data.",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies.,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#New-Jersey-Reporting-Anomalies.,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#California-Reporting-Anomalies.,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+5. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality.,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+6. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable.,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"7. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated.,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+8. The method used to calculate 95% confidence intervals is documented here: More information:,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+http://wonder.cdc.gov/wonder/help/mcd.html#Confidence-Intervals.,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+9. The method used to calculate standard errors is documented here: More information:,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+http://wonder.cdc.gov/wonder/help/mcd.html#Standard-Errors.,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"10. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012.",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which",nan,nan,2010,2010,808,38324171,4,3,4,0,0
+were available at the time of release.,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+11. Changes to cause of death classification affect reporting trends. More information:,nan,nan,2010,2010,808,38324171,4,3,4,0,0
+http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes.,nan,nan,2010,2010,808,38324171,4,3,4,0,0

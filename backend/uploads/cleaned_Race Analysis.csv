@@ -1,0 +1,111 @@
+Race,Year,Deaths,Population,Age Adjusted Rate,Age Adjusted Rate Lower 95% Confidence Interval,Age Adjusted Rate Upper 95% Confidence Interval,Age Adjusted Rate Standard Error
+American Indian or Alaska Native,1999,23,1506108,3.99,2.5,6.04,0.85
+American Indian or Alaska Native,2000,13,1595475,2.88,1.0,3.2,0.53
+American Indian or Alaska Native,2001,18,1660281,2.88,1.65,4.4,0.66
+American Indian or Alaska Native,2002,22,1723352,3.12,1.93,4.77,0.68
+American Indian or Alaska Native,2003,16,1788410,2.88,1.12,3.32,0.52
+American Indian or Alaska Native,2004,21,1859509,2.71,1.66,4.19,0.61
+American Indian or Alaska Native,2005,27,1936699,3.02,1.96,4.46,0.61
+American Indian or Alaska Native,2006,33,2018660,3.53,2.4,5.01,0.64
+American Indian or Alaska Native,2007,36,2104242,3.84,2.65,5.4,0.67
+American Indian or Alaska Native,2008,23,2195981,2.22,1.38,3.4,0.49
+American Indian or Alaska Native,2009,22,2289525,1.99,1.21,3.07,0.45
+American Indian or Alaska Native,2010,32,2362800,2.95,1.99,4.21,0.54
+American Indian or Alaska Native,2011,30,2433855,2.61,1.75,3.75,0.49
+American Indian or Alaska Native,2012,37,2481190,2.81,1.94,3.92,0.48
+American Indian or Alaska Native,2013,39,2534511,3.0,2.11,4.13,0.49
+American Indian or Alaska Native,2014,34,2593543,2.28,1.55,3.24,0.41
+American Indian or Alaska Native,2015,63,2652986,4.17,3.18,5.36,0.54
+American Indian or Alaska Native,2016,46,2709899,2.82,2.04,3.79,0.43
+American Indian or Alaska Native,2017,43,2773267,2.57,1.84,3.48,0.4
+American Indian or Alaska Native,2018,53,2827771,2.66,1.97,3.51,0.38
+American Indian or Alaska Native,2019,60,2877723,2.87,2.16,3.73,0.39
+American Indian or Alaska Native,2020,148,2927644,6.72,5.6,7.84,0.57
+Asian or Pacific Islander,1999,91,7092969,2.84,2.27,3.5,0.31
+Asian or Pacific Islander,2000,95,7391410,2.8,2.25,3.44,0.29
+Asian or Pacific Islander,2001,135,7855011,3.65,3.02,4.28,0.32
+Asian or Pacific Islander,2002,117,8222363,3.01,2.46,3.57,0.28
+Asian or Pacific Islander,2003,150,8579035,3.52,2.94,4.09,0.29
+Asian or Pacific Islander,2004,141,8942778,3.12,2.6,3.64,0.27
+Asian or Pacific Islander,2005,155,9328048,3.16,2.66,3.67,0.26
+Asian or Pacific Islander,2006,177,9719864,3.4,2.89,3.91,0.26
+Asian or Pacific Islander,2007,197,10096068,3.43,2.94,3.92,0.25
+Asian or Pacific Islander,2008,187,10463752,3.14,2.69,3.6,0.23
+Asian or Pacific Islander,2009,176,10818858,2.73,2.32,3.14,0.21
+Asian or Pacific Islander,2010,215,11081858,3.21,2.78,3.65,0.22
+Asian or Pacific Islander,2011,227,11487649,3.13,2.72,3.54,0.21
+Asian or Pacific Islander,2012,229,11957067,2.92,2.54,3.3,0.19
+Asian or Pacific Islander,2013,259,12393325,2.99,2.62,3.36,0.19
+Asian or Pacific Islander,2014,265,12983844,2.84,2.49,3.18,0.18
+Asian or Pacific Islander,2015,275,13552378,2.78,2.45,3.12,0.17
+Asian or Pacific Islander,2016,309,13859277,2.9,2.57,3.23,0.17
+Asian or Pacific Islander,2017,322,14471183,2.83,2.52,3.14,0.16
+Asian or Pacific Islander,2018,315,14805885,2.61,2.32,2.9,0.15
+Asian or Pacific Islander,2019,349,15098282,2.72,2.43,3.0,0.15
+Asian or Pacific Islander,2020,684,15375220,4.98,4.61,5.36,0.19
+Black or African American,1999,348,20503656,2.51,2.25,2.78,0.14
+Black or African American,2000,361,20775703,2.58,2.31,2.85,0.14
+Black or African American,2001,354,21181572,2.5,2.24,2.76,0.13
+Black or African American,2002,399,21522362,2.82,2.54,3.1,0.14
+Black or African American,2003,415,21858880,2.88,2.6,3.16,0.14
+Black or African American,2004,406,22258267,2.75,2.48,3.02,0.14
+Black or African American,2005,424,22690893,2.8,2.53,3.07,0.14
+Black or African American,2006,395,23137867,2.52,2.27,2.77,0.13
+Black or African American,2007,482,23577304,2.98,2.71,3.25,0.14
+Black or African American,2008,388,24018935,2.34,2.1,2.57,0.12
+Black or African American,2009,431,24456946,2.52,2.28,2.76,0.12
+Black or African American,2010,452,24802842,2.57,2.33,2.81,0.12
+Black or African American,2011,517,25288869,2.83,2.58,3.07,0.13
+Black or African American,2012,547,25724605,2.83,2.59,3.07,0.12
+Black or African American,2013,539,26175234,2.69,2.46,2.92,0.12
+Black or African American,2014,559,26742836,2.7,2.47,2.92,0.12
+Black or African American,2015,587,27316901,2.71,2.49,2.94,0.11
+Black or African American,2016,607,27833992,2.71,2.49,2.93,0.11
+Black or African American,2017,690,28455786,2.95,2.72,3.17,0.11
+Black or African American,2018,742,28919914,3.11,2.88,3.34,0.12
+Black or African American,2019,722,29385485,2.92,2.71,3.14,0.11
+Black or African American,2020,1867,29818678,7.15,6.82,7.48,0.17
+White,1999,7519,151306036,4.76,4.66,4.87,0.05
+White,2000,7718,152222052,4.82,4.72,4.93,0.05
+White,2001,7879,153608264,4.84,4.73,4.95,0.05
+White,2002,8392,154739951,5.11,5.0,5.22,0.06
+White,2003,8611,155864104,5.16,5.05,5.27,0.06
+White,2004,8365,157144830,4.95,4.85,5.06,0.05
+White,2005,9170,158595744,5.32,5.21,5.42,0.06
+White,2006,9030,160142968,5.12,5.01,5.23,0.05
+White,2007,9058,161626163,5.06,4.95,5.16,0.05
+White,2008,7868,163116422,4.27,4.17,4.36,0.05
+White,2009,7485,164541687,4.0,3.91,4.09,0.05
+White,2010,7992,165644483,4.2,4.11,4.29,0.05
+White,2011,8527,167382563,4.36,4.27,4.45,0.05
+White,2012,8716,168663175,4.39,4.29,4.48,0.05
+White,2013,9345,169982244,4.59,4.49,4.68,0.05
+White,2014,9091,171489057,4.39,4.3,4.48,0.05
+White,2015,9955,173031552,4.74,4.64,4.83,0.05
+White,2016,9708,174238249,4.5,4.41,4.59,0.05
+White,2017,10424,175747095,4.76,4.67,4.85,0.05
+White,2018,10649,176757620,4.78,4.69,4.87,0.05
+White,2019,10340,177619677,4.6,4.51,4.69,0.05
+White,2020,19092,178513471,8.36,8.24,8.48,0.06
+Hispanic or Latino,1999,162,17503631,2.31,1.94,2.67,0.19
+Hispanic or Latino,2000,183,18219679,2.5,2.13,2.87,0.19
+Hispanic or Latino,2001,195,19290018,2.56,2.2,2.93,0.19
+Hispanic or Latino,2002,177,20159630,2.22,1.89,2.55,0.17
+Hispanic or Latino,2003,211,21011656,2.47,2.13,2.82,0.17
+Hispanic or Latino,2004,243,21877214,2.73,2.38,3.08,0.18
+Hispanic or Latino,2005,284,22804023,3.0,2.64,3.36,0.18
+Hispanic or Latino,2006,287,23743864,2.82,2.48,3.15,0.17
+Hispanic or Latino,2007,279,24673919,2.57,2.26,2.88,0.16
+Hispanic or Latino,2008,271,25602850,2.34,2.06,2.63,0.15
+Hispanic or Latino,2009,307,26504021,2.54,2.25,2.83,0.15
+Hispanic or Latino,2010,294,27192663,2.3,2.03,2.57,0.14
+Hispanic or Latino,2011,368,28255675,2.66,2.39,2.94,0.14
+Hispanic or Latino,2012,390,28988437,2.67,2.41,2.94,0.14
+Hispanic or Latino,2013,411,29784174,2.61,2.36,2.87,0.13
+Hispanic or Latino,2014,447,30809714,2.64,2.39,2.89,0.13
+Hispanic or Latino,2015,512,31761872,2.81,2.56,3.05,0.13
+Hispanic or Latino,2016,542,32438262,2.81,2.57,3.05,0.12
+Hispanic or Latino,2017,563,33594503,2.8,2.56,3.03,0.12
+Hispanic or Latino,2018,629,34350362,2.95,2.71,3.18,0.12
+Hispanic or Latino,2019,627,35025850,2.86,2.63,3.09,0.12
+Hispanic or Latino,2020,2146,35758193,8.98,8.59,9.37,0.2

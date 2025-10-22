@@ -1,0 +1,5 @@
+InvoiceID,Date,Customer,Item,Qty,Unit,Total
+INV-A,2025-10-10,Alpha,Pizza,1,10,10
+N/A,N/A,N/A,Delivery,1,2,2
+INV-B,2025-10-11,Beta,Pizza,2,12,24
+N/A,N/A,N/A,Toppings,1,10,10
